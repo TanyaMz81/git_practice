@@ -1,1 +1,2 @@
 I want to go through the whole git flow. 
+This is the scond sentence. 
