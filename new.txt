@@ -1,1 +1,3 @@
-I learn Git
+I learn Git.
+I made some changes here. 
+And yet another change to come. 
